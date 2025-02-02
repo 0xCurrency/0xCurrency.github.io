@@ -1,2 +1,2 @@
 # 0xCurrency.github.io
-Blog
+A blog about money. 
